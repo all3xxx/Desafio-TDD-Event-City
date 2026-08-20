@@ -29,6 +29,10 @@ O objetivo é realizar o desenvolvimento do projeto a partir dos testes (TDD). A
 - PUT /events deve atualizar recurso, quando id existir
 - PUT /events deve retornar 404 Not Found, quando id não existir
 
+### Importante
+
+Para facilitar os testes, está disponível nos arquivos do projeto a Collection do Postman com as requisições prontas.
+
 ## Competências avaliadas
 
 - Desenvolvimento TDD de API Rest com Java e Spring Boot
